@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub
+# Introducción a GitHub
 
-_Get started using GitHub in less than an hour._
+_Empieza a usar GitHub en menos de una hora._
 
 <!-- 
   <<< Author notes: Start of the course >>> 
@@ -49,9 +49,9 @@ People use GitHub to build some of the most advanced technologies in the world. 
 -->
 
 <details id=1>
-<summary><h2>Step 1: Create a branch</h2></summary>
+<summary><h2>Paso 1: Crea una rama</h2></summary>
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_¡Bienvenida a "Introducción a GitHub"! :wave:_
 
 **What is GitHub?**: GitHub is a collaboration platform that uses [Git](https://docs.github.com/get-started/quickstart/github-glossary#git) for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
@@ -66,7 +66,7 @@ On additional branches, you can make edits without impacting the `main` version.
 
 **What is a profile README?**: A [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
 
-### :keyboard: Activity: Your first branch
+### :keyboard: Actividad: Tu primera rama
 
 1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
 2. Navigate to the **Code** tab.
@@ -86,15 +86,15 @@ On additional branches, you can make edits without impacting the `main` version.
 -->
 
 <details id=2>
-<summary><h2>Step 2: Commit a file</h2></summary>
+<summary><h2>Paso 2: Confirma los cambios (commit) de un archivo</h2></summary>
 
-_You created a branch! :tada:_
+_¡Has creado una rama! :tada:_
 
 Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
 
 **What is a commit?**: A [commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) is a set of changes to the files and folders in your project. A commit exists in a branch.
 
-### :keyboard: Activity: Your first commit
+### :keyboard: Actividad: Tu primer commit
 
 The following steps will guide you through the process of committing a change on GitHub. Committing a change requires first adding a new file to your new branch. 
 
@@ -104,7 +104,7 @@ The following steps will guide you through the process of committing a change on
 3. In the **Name your file...** field, enter `PROFILE.md`.
 4. In the **Edit new file** area, copy the following content to your file:
    ```
-   Welcome to my GitHub profile!
+   ¡Bienvenida a mi perfil en GitHub!
    ```
    <img alt="profile.md file screenshot" src="/images/my-profile-file.png"/>
 5. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice. First, enter `Add PROFILE.md` in the first text-entry field below **Commit new file**. Then, if you want to confirm what your screen should look like, expand the dropdown below.
@@ -127,7 +127,7 @@ The following steps will guide you through the process of committing a change on
 -->
 
 <details id=3>
-<summary><h2>Step 3: Open a pull request</h2></summary>
+<summary><h2>Paso 3: Abre una solicitud de extracción (pull request)</h2></summary>
 
 _Nice work making that commit :sparkles:_
 
