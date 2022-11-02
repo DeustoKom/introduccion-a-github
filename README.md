@@ -36,7 +36,7 @@ La gente utiliza GitHub para construir algunas de las tecnologías más avanzada
    - Como propietario, elige tu cuenta personal o una organización para alojar el repositorio.
    - Recomendamos crear un repositorio público - los repositorios privados [utilizarán minutos de Acciones](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
-3. Una vez creado tu nuevo repositorio, espera unos 20 segundos y actualiza la página. Sige las instrucciones paso a paso en el README del nuevo repositorio.
+3. Una vez creado tu nuevo repositorio, espera unos 20 segundos y actualiza la página. Sigue las instrucciones paso a paso en el README del nuevo repositorio.
 
 <!--endstep0-->
 
