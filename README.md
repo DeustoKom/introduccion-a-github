@@ -20,23 +20,23 @@ _Empieza a usar GitHub en menos de una hora._
 
 <!--step0-->
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
+La gente utiliza GitHub para construir algunas de las tecnologías más avanzadas del mundo. Ya sea que estés visualizando datos o construyendo un nuevo juego, hay toda una comunidad y un conjunto de herramientas en GitHub que pueden ayudarte a hacerlo mejor. El curso "Introducción a GitHub" de GitHub Skills te guía por todo lo que necesitas para empezar a contribuir en menos de una hora.
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This course is four steps long and takes less than one hour to complete.
+- **Para quién es esto**: Nuevos desarrolladores, nuevos usuarios de GitHub y estudiantes.
+- **Qué vas a aprender**: Introduciremos repositorios, ramas \(_branches_\), confirmaciones de cambios \(_commits_\) y solicitudes de extracción \(_pull requests_\).
+- **Qué vas a construir**: Haremos un breve archivo Markdown que puedes usar como tu [perfil README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+- **Requisitos**: Ninguno. Este curso es una gran introducción para tu primer día en GitHub.
+- **Cuánto tiempo**: Este curso consta de cuatro pasos y tardarás menos de una hora en completarlo.
 
-## How to start this course
+## Cómo empezar este curso
 
-1. Above these instructions, right-click **Use this template** and open the link in a new tab.
+1. Encima de estas instrucciones, haz clic con el botón derecho del ratón en **Use this template** y abre el enlace en una nueva pestaña.
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
-2. In the new tab, follow the prompts to create a new repository.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+2. En la nueva pestaña, sigue las indicaciones para crear un nuevo repositorio.
+   - Como propietario, elige tu cuenta personal o una organización para alojar el repositorio.
+   - Recomendamos crear un repositorio público - los repositorios privados [utilizarán minutos de Acciones](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+3. Una vez creado tu nuevo repositorio, espera unos 20 segundos y actualiza la página. Sige las instrucciones paso a paso en el README del nuevo repositorio.
 
 <!--endstep0-->
 
@@ -53,29 +53,29 @@ People use GitHub to build some of the most advanced technologies in the world. 
 
 _¡Bienvenida a "Introducción a GitHub"! :wave:_
 
-**What is GitHub?**: GitHub is a collaboration platform that uses [Git](https://docs.github.com/get-started/quickstart/github-glossary#git) for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+**¿Qué es GitHub?**: GitHub es una plataforma de colaboración que utiliza [Git](https://docs.github.com/get-started/quickstart/github-glossary#git) para el control de versiones. GitHub es un lugar popular para compartir y contribuir al software de [código abierto](https://docs.github.com/get-started/quickstart/github-glossary#open-source).
+<br>:tv: [Video: Qué es GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-**What is a repository?**: A [repository](https://docs.github.com/get-started/quickstart/github-glossary#repository) is a project containing files and folders. A repository tracks versions of files and folders.
-<br>:tv: [Video: Exploring a repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
+**¿Qué es un repositorio?**: Un [repositorio](https://docs.github.com/get-started/quickstart/github-glossary#repository) es un proyecto que contiene archivos y carpetas. Un repositorio lleva un control de las versiones de los archivos y carpetas.
+<br>:tv: [Video: Explorar un repositorio](https://www.youtube.com/watch?v=R8OAwrcMlRw)
 
-**What is a branch?**: A [branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch) is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. You can create additional branches off of `main` in your repository. You can use branches to have different versions of a project at one time.
+**¿Qué es una rama (o _branch_)?** Una [rama](https://docs.github.com/en/get-started/quickstart/github-glossary#branch) es una versión paralela de tu repositorio. Por defecto, tu repositorio tiene una rama llamada `main` y se considera la rama definitiva. Puedes crear ramas adicionales a partir de `main` en tu repositorio. Puedes utilizar ramas para tener diferentes versiones de un proyecto al mismo tiempo.
 
-On additional branches, you can make edits without impacting the `main` version. Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute.
-<br>:tv: [Video: Branches](https://www.youtube.com/watch?v=xgQmu81G1yY)
+En las ramas adicionales, puedes hacer ediciones sin que afecten a la versión principal o `main`. Las ramas le permiten separar su trabajo de la rama `main`. En otras palabras, el trabajo de todos está a salvo mientras tú contribuyes.
+<br>:tv: [Video: Ramas](https://www.youtube.com/watch?v=xgQmu81G1yY)
 
-**What is a profile README?**: A [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
+**¿Qué es un README de perfil?**: Un [README de perfil](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) es básicamente una sección "Sobre mí" en tu perfil de GitHub donde puedes compartir información sobre ti misma/o con la comunidad en GitHub.com. GitHub muestra el README de tu perfil en la parte superior de tu página de perfil.
 
 ### :keyboard: Actividad: Tu primera rama
 
-1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **Code** tab.
-3. Click on the **main** branch drop-down.<br>
+1. Abre una nueva pestaña del navegador y navega hasta este mismo repositorio. Luego, trabaja en los pasos en tu segunda pestaña mientras lees las instrucciones en esta pestaña.
+2. Navega a la pestaña **Code**.
+3. Haz clic en el menú desplegable de la rama **main**.<br>
    <img alt="image showing my-first-branch entry" src="/images/my-first-branch.png"/>
-4. In the field, enter a name for your branch: `my-first-branch`.
-5. Click **Create branch: my-first-branch** to create your branch.
-6. Move on to Step 2!<br>
-   **Note**: If you made a public repository, and want to confirm you correctly set up your first branch, wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
+4. En el campo de texto, introduce el nombre de tu nueva rama: `my-first-branch`.
+5. Haz clic en **Create branch: my-first-branch** para crear tu rama.
+6. ¡Continúa al paso 2!<br>
+   **Nota**: Si has creado un repositorio público y quieres confirmar que has configurado correctamente tu primera rama, espera unos 20 segundos y luego actualiza esta página (desde la que estás siguiendo las instrucciones). Las [Acciones de GitHub](https://docs.github.com/en/actions) cerrarán automáticamente este paso y abrirán el siguiente.
 
 </details>
 
@@ -88,33 +88,33 @@ On additional branches, you can make edits without impacting the `main` version.
 <details id=2>
 <summary><h2>Paso 2: Confirma los cambios (commit) de un archivo</h2></summary>
 
-_¡Has creado una rama! :tada:_
+_¡Has creado una rama!_ :tada:
 
-Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
+Crear una rama te permite editar tu proyecto sin cambiar la rama `main`. Ahora que tienes una rama, es el momento de crear un archivo y hacer tu primera confirmación de cambios (o _commit_).
 
-**What is a commit?**: A [commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) is a set of changes to the files and folders in your project. A commit exists in a branch.
+**¿Qué es una confirmación de cambios (o _commit_)? Un [commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) es un conjunto de cambios en los archivos y carpetas de tu proyecto. Un commit existe en una rama.
 
 ### :keyboard: Actividad: Tu primer commit
 
-The following steps will guide you through the process of committing a change on GitHub. Committing a change requires first adding a new file to your new branch. 
+Los siguientes pasos te guiarán en el proceso de confirmar un cambio en GitHub. Para confirmar un cambio hay que añadir primero un nuevo archivo a la nueva rama. 
 
-1. On the **Code** tab, make sure you're on your new branch `my-first-branch`.
-2. Select the **Add file** drop-down and click **Create new file**.<br>
+1. En la pestaña **Code**, asegúrate de que estás en tu nueva rama `my-first-branch`.
+2. Selecciona el desplegable **Add file** y haz clic en **Create new file** para crear un archivo nuevo.<br>
    ![create new file option](/images/create-new-file.png)
-3. In the **Name your file...** field, enter `PROFILE.md`.
-4. In the **Edit new file** area, copy the following content to your file:
+3. En el campo **Name your file...**, escribe `PROFILE.md`.
+4. En el área **Edit new file**, copia el siguiente contenido a tu archivo:
    ```
    ¡Bienvenida a mi perfil en GitHub!
    ```
    <img alt="profile.md file screenshot" src="/images/my-profile-file.png"/>
-5. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice. First, enter `Add PROFILE.md` in the first text-entry field below **Commit new file**. Then, if you want to confirm what your screen should look like, expand the dropdown below.
+5. Para los commits, es recomendable que introduzcas un mensaje breve de commit que describa los cambios que has hecho. Este mensaje ayuda a otras personas (o a tu futuro yo) a entender qué cambios has introducido en tu commit. GitHub ofrece un mensaje simple por defecto, pero vamos a cambiarlo ligeramente para practicar. Primero, introduce `Add PROFILE.md` en el primer campo de texto debajo de **Commit new file**. Después, si quieres asegurarte de qué aspecto debería tener tu pantalla, expande el desplegable de debajo.
    <details>
-   <summary> Expand to see the screenshot.</summary>
+   <summary> Expande para ver la captura.</summary>
    <img alt="screenshot of adding a new file with a commit message" src="/images/commit-full-screen.png" />
    </details>
-6. In this lesson, we'll ignore the other fields and click **Commit new file**.
-7. Move on to Step 3! <br>
-   **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
+6. En esta lección ignoraremos los demás campos; haz clic en **Commit new file**.
+7. ¡Adelante con el paso 3! <br>
+    **Nota**: Como antes, puedes esperar unos 20 segundos, luego refrescar esta página (de la que estás siguiendo las instrucciones) y [GitHub Actions](https://docs.github.com/en/actions) cerrará automáticamente este paso y abrirá el siguiente.
 
 </details>
 
@@ -129,33 +129,33 @@ The following steps will guide you through the process of committing a change on
 <details id=3>
 <summary><h2>Paso 3: Abre una solicitud de extracción (pull request)</h2></summary>
 
-_Nice work making that commit :sparkles:_
+_Buen trabajo con ese commit_ :sparkles:
 
-Now that you’ve created a commit, it’s time to share your proposed change through a pull request!
+Ahora que has creado un commit, es el momento de compartir tu propuesta de cambio a través de una solicitud de extracción (o _pull request_).
 
-**What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
+**¿Qué es una solicitud de extracción (o _pull request_)?**: La colaboración ocurre en un pull request. El pull request muestra los cambios en tu rama a otras personas. Este pull request va a mantener los cambios que acabas de hacer en tu rama y propone aplicarlos a la rama `main`.
 <br>:tv: [Video: Introduction to pull requests](https://youtu.be/kJr-PIfLDl4)
 
-### :keyboard: Activity: Create a pull request
+### :keyboard: Actividad: Crea un pull request
 
-You may have noticed after your commit that a message displayed indicating your recent push to your branch and providing a button that says **Compare & pull request**.
+Es posible que hayas notado después de tu commit que aparece un mensaje indicando tu reciente push a tu rama y proporcionando un botón que dice **Compare & pull request**.
 
 ![screenshot of message and button](/images/compare-and-pull-request.png)
 
- If you want, feel free to click **Compare & pull request**, and then skip to step 6 below. If you don't click the button, the instructions below walk you through manually setting up the pull request.
+ Si quieres, puedes hacer clic en **Compare & pull request**, y luego saltar al paso 6 de abajo. Si no haces clic en el botón, las instrucciones siguientes te guiarán en la configuración manual de la solicitud de extracción.
 
-1. Click on the **Pull requests** tab in your repository.
-2. Click **New pull request**.
-3. In the **base:** dropdown, make sure **main** is selected.
-4. Select the **compare:** dropdown, and click `my-first-branch`. <br>
+1. Haz clic en la pestaña **Pull requests** de tu repositorio.
+2. Haz clic en **New pull request**.
+3. En el desplegable **base:**, asegúrate de que está seleccionado **main**.
+4. Selecciona el desplegable **compare:** y haz clic en `my-first-branch`. <br>
    <img alt="screenshot showing both branch selections" src="/images/pull-request-branches.png"/>
-5. Click **Create pull request**.
-6. Enter a title for your pull request: `Add my first file`.
-7. The next field helps you provide a description of the changes you made. Feel free to add a description of what you’ve accomplished so far. As a reminder, you have: created a branch, created a file and made a commit! <br>
+5. Haz clic en **Create pull request**.
+6. Introduce un título para tu solicitud de extracción: `Add my first file`.
+7. El siguiente campo te ayuda a proporcionar una descripción de los cambios que has realizado. Siéntete libre de añadir una descripción de lo que has logrado hasta ahora. Como recordatorio, has: ¡creado una rama, creado un archivo y hecho un commit!<br>
    <img alt="screenshot showing pull request" src="/images/Pull-request-description.png"/>
-8. Click **Create pull request**.
-9. Move on to Step 4! <br>
-   **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one. As a perk, you may see evidence of GitHub Actions running on the tab with the pull request opened! The image below shows a line you might see on your pull request after the Action finishes running.<br>
+8. Haz clic en **Create pull request**.
+9. ¡Continúa con el paso 4! <br>
+   **Nota**: Como antes, puedes esperar unos 20 segundos, luego refrescar esta página (en la que estás siguiendo las instrucciones) y [GitHub Actions](https://docs.github.com/en/actions) cerrará automáticamente este paso y abrirá el siguiente. Como ventaja, puedes ver pruebas de las Acciones de GitHub que se ejecutan en la pestaña con la solicitud de extracción abierta. La imagen de abajo muestra una línea que puedes ver en tu pull request después de que la Acción termine de ejecutarse.<br>
    <img alt="screenshot of an example of an actions line" src="/images/Actions-to-step-4.png"/>
 
 </details>
@@ -168,26 +168,26 @@ You may have noticed after your commit that a message displayed indicating your 
 -->
 
 <details id=4>
-<summary><h2>Step 4: Merge your pull request</h2></summary>
+<summary><h2>Step 4: Combina tu pull request</h2></summary>
 
-_Nicely done friend! :sunglasses:_
+_¡Bien hecho!_ :sunglasses:
 
-You successfully created a pull request. You can now merge your pull request.
+Has creado una solicitud de extracción con éxito. Ahora puedes fusionar o combinar \(_merge_\) tu pull request.
 
-**What is a _merge_**: A [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) adds the changes in your pull request and branch into the `main` branch.
+**Qué es una _fusión_** (o _merge_): Un [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) añade los cambios en su solicitud de extracción y rama en la rama `main`.
 <br>:tv: [Video: Understanding the GitHub flow](https://www.youtube.com/watch?v=PBI2Rz-ZOxU)
 
-As noted in the previous step, you may have seen evidence of an action running which automatically progresses your instructions to the next step. You'll have to wait for it to finish before you can merge your pull request. It will be ready when the merge pull request button is green.
+Como se ha indicado en el paso anterior, es posible que hayas visto que se ejecuta una acción que hace avanzar automáticamente tus instrucciones al siguiente paso. Tendrás que esperar a que termine para poder fusionar tu pull request. Estará listo cuando el botón **Merge pull request** esté verde.
 
 ![screenshot of green merge pull request button](/images/Green-merge-pull-request.png)
-### :keyboard: Activity: Merge the pull request
+### :keyboard: Actividad: Fusiona el pull request
 
-1. Click **Merge pull request**.
-1. Click **Confirm merge**.
-1. Once your branch has been merged, you don't need it anymore. To delete this branch, click **Delete branch**.<br>
+1. Haz clic en **Merge pull request**.
+1. Haz clic en **Confirm merge**.
+1. Una vez que tu rama ha sido fusionada, ya no la necesitas. Para eliminar esta rama, haz clic en **Delete branch**.<br>
    <img alt="screenshot showing delete branch button" src="/images/delete-branch.png"/>
-2. Check out the **Finish** step to see what you can learn next!<br>
-   **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
+2. ¡Consulta el paso **Finalizar** para ver lo que puedes aprender a continuación!<br>
+   **Nota**: Como antes, puedes esperar unos 20 segundos, luego refrescar esta página (desde la que estás siguiendo las instrucciones) y [GitHub Actions](https://docs.github.com/en/actions) cerrará automáticamente este paso y abrirá el siguiente.
 
 </details>
 
@@ -197,34 +197,34 @@ As noted in the previous step, you may have seen evidence of an action running w
 -->
 
 <details id=X>
-<summary><h2>Finish</h2></summary>
+<summary><h2>Finalizar</h2></summary>
 
-_Congratulations friend, you've completed this course and joined the world of developers!_
+_¡Enhorabuena! Has completado este curso y te has unido a la comunidad de desarrolladores_
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-Here's a recap of your accomplishments:
+Aquí tienes un resumen de tus logros:
 
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
+- Has aprendido sobre GitHub, repositorios, ramas, commits y pull requests.
+- Has creado una rama, un commit y un pull request.
+- Has fusionado un pull request.
+- ¡Has hecho tu primera contribución! :tada:
 
-### What's next?
+### ¿Y ahora, qué?
 
-  If you'd like to make a profile README, use the simplified instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-  1. Make a new public repository with a name that matches your GitHub username.
-  2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-  3. Edit the contents of the `README.md` file.
-  4. If you created a new branch for your file, open and merge a pull request on your branch.
-  5. We'd love to see your new profile! Share your profile on social media and tag us!
-  6. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
+  Si quieres hacer un README de perfil, utiliza las instrucciones simplificadas que aparecen a continuación o sigue las instrucciones del artículo [Gestión de tu README del perfil](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+  1. Crea un nuevo repositorio público con un nombre que coincida con tu nombre de usuario de GitHub.
+  2. Crea un archivo llamado `README.md` en su raíz. La "raíz" significa que no está dentro de ninguna carpeta de tu repositorio.
+  3. Edita el contenido del archivo `README.md`.
+  4. Si has creado una nueva rama para tu archivo, abre y fusiona un pull request en tu rama.
+  5. Nos encantaría ver tu nuevo perfil. ¡Comparte tu perfil en las redes sociales y etiquétanos!
+  6. Por último, nos encantaría saber qué te ha parecido este curso [en nuestro foro de debate](https://github.com/skills/.github/discussions).
 
-Check out these resources to learn more or get involved:
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+Consulta estos recursos para obtener más información o participar:
+- ¿Eres estudiante? Echa un vistazo al [Student Developer Pack](https://education.github.com/pack).
+- Haz otro curso de [GitHub Skills](https://github.com/skills).
+- Lee los documentos de inicio de GitHub (https://docs.github.com/en/get-started).
+- Para encontrar proyectos a los que contribuir, consulta [GitHub Explore](https://github.com/explore).
 
 </details>
 
