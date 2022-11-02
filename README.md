@@ -30,7 +30,7 @@ La gente utiliza GitHub para construir algunas de las tecnologías más avanzada
 
 ## Cómo empezar este curso
 
-1. Encima de estas instrucciones, haz clic con el botón derecho del ratón en **Use this template** y abre el enlace en una nueva pestaña.
+1. Encima de estas instrucciones, haz clic con el botón derecho del ratón en **Use this template** y abre el enlace en una nueva pestaña.<br />
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
 2. En la nueva pestaña, sigue las indicaciones para crear un nuevo repositorio.
    - Como propietario, elige tu cuenta personal o una organización para alojar el repositorio.
