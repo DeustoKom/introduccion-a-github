@@ -92,7 +92,7 @@ _¡Has creado una rama!_ :tada:
 
 Crear una rama te permite editar tu proyecto sin cambiar la rama `main`. Ahora que tienes una rama, es el momento de crear un archivo y hacer tu primera confirmación de cambios (o _commit_).
 
-**¿Qué es una confirmación de cambios (o _commit_)? Un [commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) es un conjunto de cambios en los archivos y carpetas de tu proyecto. Un commit existe en una rama.
+**¿Qué es una confirmación de cambios (o _commit_)?** Un [commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) es un conjunto de cambios en los archivos y carpetas de tu proyecto. Un commit existe en una rama.
 
 ### :keyboard: Actividad: Tu primer commit
 
